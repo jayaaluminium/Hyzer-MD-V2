@@ -1,6 +1,6 @@
-global.owner = ['6285822347348'] // Put your number here
+global.owner = ['62881038186826'] // Put your number here
 global.mods = [] // Want some help?
-global.prems = [] // Premium user has unlimited limit
+global.prems = ['62881038186826'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   amel: 'https://melcanz.com',
@@ -27,7 +27,7 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://melcanz.com': 'elaina',
+  'https://melcanz.com': '9K7Fdi8H',
   'https://api.xteam.xyz': 'd37372311698ed1d',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://bsbt-api-rest.herokuapp.com': 'benniismael',
@@ -35,7 +35,7 @@ global.APIKeys = { // APIKey Here
   'https://hardianto-chan.herokuapp.com': 'hardianto',
   'https://pencarikode.xyz': 'pais', 
   'https://leyscoders-api.herokuapp.com': 'MIMINGANZ',
-  'https://zekais-api.herokuapp.com': 'apikeymu',
+  'https://zekais-api.herokuapp.com': 'aok7u3WQ',
   'https://api.lolhuman.xyz': 'Deffbotz',
 }
 //cari apikey sendiri ya gaes yak
@@ -43,11 +43,11 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.stiker_wait = '*Stiker sedang dibuat*'
 global.packname = 'stickerby'
-global.author = `ArullOfc`
-global.wm = 'ArullBotzMD'
+global.author = `KadekBotz`
+global.wm = 'Kadek'
 global.watermark = wm
 global.media = 'https://telegra.ph/file/6129a084ac3e0986bf31c.jpg'
-global.instagram = 'https://instagram.com/sahrulwara_____'
+global.instagram = 'https://instagram.com/putuliaa._'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=crafts-logo&doScale=true&scaleWidth=500&scaleHeight=500&fontsize=100&fillTextType=0&backgroundColor=%23401620&text='
 global.wait = '_*tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
